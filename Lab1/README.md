@@ -30,12 +30,17 @@
 
 * Slide switches 13, 14, and 15 to determine which display is illuminated (see [modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1/Modifications))
 
-![Display Selection](./IMG_2022.MOV)
+https://user-images.githubusercontent.com/70721966/155828975-34f1f4a5-12d4-4215-b6b9-cc309f749423.MOV
+
 
 * Slide switches 0, 1, 2, and 3 to display the value of 4-bit hex digit from 0 to F
 
-![0 TO f](./IMG_2023.MOV)
+
+https://user-images.githubusercontent.com/70721966/155828997-15d85baf-48c3-43a9-b1aa-e00babe0b11b.MOV
+
 
 * Slide only one switch at a time to display the [Gray code](https://en.wikipedia.org/wiki/Gray_code) from 0 to F, i.e., 0-1-3-2-6-7-5-4-C-d-F-E-A-b-9-8
 
-![GRAY CODE](./IMG_2024.MOV)
+
+https://user-images.githubusercontent.com/70721966/155829012-d5b05515-18a0-43f8-aaf8-4e82af9c7b26.MOV
+
