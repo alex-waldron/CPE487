@@ -27,6 +27,7 @@
 | 1110 | E | 0110000 |
 | 1111 | F | 0111000 |
 
+# Project 1
 
 * Slide switches 13, 14, and 15 to determine which display is illuminated (see [modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1/Modifications))
 
@@ -45,3 +46,13 @@
 
 ![img_2024](./IMG_2024.gif)
 
+# Project 2
+
+* Create new project and copy hexcount, leddec, and counter files
+* Run Synethesis
+* Run Implementation
+* Generate bitstream
+* Program device
+* The least significant 7-segment decoder counts cycles from 0 to F
+
+![img_2027](./IMG_2027.gif)
