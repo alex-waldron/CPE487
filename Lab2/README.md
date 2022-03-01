@@ -12,6 +12,9 @@
 * Run Synthesis
 * Run Implementation
 * Open Implemented Design
-![Implementation.png](./Implementation.png)
+
+![Implementation.png](./Implementation.PNG)
+
 * Program Device
+
 ![IMG_2033.gif](./IMG_2033.gif)
