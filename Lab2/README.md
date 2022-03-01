@@ -18,3 +18,7 @@
 * Program Device
 
 ![IMG_2033.gif](./IMG_2033.gif)
+
+* Generate and boot from configuration memory, and close project
+
+![IMG_2034.gif](./IMG_2034.gif)
