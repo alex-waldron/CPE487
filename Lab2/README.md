@@ -8,10 +8,10 @@
 
 ![hexcount.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-2/hexcount.png)
 
-*Created a new RTL project
-*Run Synthesis
-*Run Implementation
-*Open Implemented Design
+* Created a new RTL project
+* Run Synthesis
+* Run Implementation
+* Open Implemented Design
 ![Implementation.png](./Implementation.png)
-*Program Device
+* Program Device
 ![IMG_2033.gif](./IMG_2033.gif)
