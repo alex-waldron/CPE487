@@ -10,5 +10,7 @@
 
 4. Generate the bitstream and program the device
 
+![IMG_2055.gif](./IMG_2055.gif)
+
 5. Create modifications to change the size and color of the vall, ball from square to round, introduce x motion
 
