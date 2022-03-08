@@ -5,4 +5,4 @@
 1. Create a new RTL project called vgaball
 2. Run the Synthesis
 3. Run implementation and open implemented design
-[Implementation](.\implementation.png)
+[Implementation](.\implementation.PNG)
