@@ -8,4 +8,7 @@
 
 ![Implementation](./implementation.PNG)
 
+4. Generate the bitstream and program the device
+
+5. Create modifications to change the size and color of the vall, ball from square to round, introduce x motion
 
