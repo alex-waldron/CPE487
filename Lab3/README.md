@@ -6,6 +6,6 @@
 2. Run the Synthesis
 3. Run implementation and open implemented design
 
-![Implementation](.\implementation.PNG)
+![Implementation](./implementation.PNG)
 
 
