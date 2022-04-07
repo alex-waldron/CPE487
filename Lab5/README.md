@@ -31,7 +31,15 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
 * Click 'Program Device' then xc7a100t_0 to download siren.bit to the Nexys A7-100T board
 
+Performed the first part of the lab with the pillow speaker
+
+![IMG_2148.jpg](/IMG_2148.jpg)
+
 ### 5. Edit code with the following [modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-5/Modifications)
+
+![IMG_2150.jpg](/IMG_2150.jpg)
+
+![Recording]()
 
 #### A) Change the upper and lower tone limits
 
