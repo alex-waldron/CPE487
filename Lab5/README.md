@@ -39,7 +39,7 @@ Performed the first part of the lab with the pillow speaker
 
 ![IMG_2150.jpg](/IMG_2150.jpg)
 
-![Recording]()
+![Recording](/LAB5Sound.m4a)
 
 #### A) Change the upper and lower tone limits
 
