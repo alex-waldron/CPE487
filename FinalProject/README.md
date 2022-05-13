@@ -19,7 +19,7 @@ To get a start for the project, I cloned a previous frogger project from Corey B
 
 4. Run implementation and open implemented design
 
-![Schem](./implementation.PNG)
+![Schem](./implementation.png)
 
 5. Generate bitstream, open hardware manager, and program device
 
